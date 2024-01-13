@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="lime">#00FF00</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <string name="Register">Register</string>
+    <string name="app_name">Scandance</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="default_web_client_id" translatable="false">26435215151-0ba6719rshbachpk6uar2sjrphj6p49m.apps.googleusercontent.com</string>
+    <string name="email"/>
+    <string name="enter_your_info">Enter your info</string>
+    <string name="gcm_defaultSenderId" translatable="false">26435215151</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="google_api_key" translatable="false">AIzaSyAcE_m3ABbuVCzVIzxE0W2x4eaRDJQ-Nwk</string>
+    <string name="google_app_id" translatable="false">1:26435215151:android:f6262c13b4867878fc0bda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAcE_m3ABbuVCzVIzxE0W2x4eaRDJQ-Nwk</string>
+    <string name="google_storage_bucket" translatable="false">scandance-d28f8.appspot.com</string>
+    <string name="linktosite">
+    <a href="https://docs.google.com/spreadsheets/d/1Opoqp_y_Wq41mh6AdD7nndOXbG3xEP2wQSoUVJ3XZjk/edit#gid=0">Developed By: Sanyam Kudale</a>
+    </string>
+    <string name="log_out">Log out</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">scandance-d28f8</string>
+    <string name="qr_code">qr_code</string>
+    <string name="register">Register</string>
+    <style name="Theme.Scandance" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

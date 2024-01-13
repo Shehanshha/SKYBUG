@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">26435215151-0ba6719rshbachpk6uar2sjrphj6p49m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">26435215151</string>
+    <string name="google_api_key" translatable="false">AIzaSyAcE_m3ABbuVCzVIzxE0W2x4eaRDJQ-Nwk</string>
+    <string name="google_app_id" translatable="false">1:26435215151:android:f6262c13b4867878fc0bda</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAcE_m3ABbuVCzVIzxE0W2x4eaRDJQ-Nwk</string>
+    <string name="google_storage_bucket" translatable="false">scandance-d28f8.appspot.com</string>
+    <string name="project_id" translatable="false">scandance-d28f8</string>
+</resources>

@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_images.jpeg.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/images.jpeg"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_beach.jpg.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/beach.jpg"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_bird.jpg.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/bird.jpg"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_three.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_three.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_twitter.png.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/twitter.png"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_button.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_button.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_activityseven.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_activityseven.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_home.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_faculty_button.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_faculty_button.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_two.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_two.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_google.png.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/google.png"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_tammana.jpg.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/tammana.jpg"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_background1.png.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/background1.png"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_sun.jpg.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/sun.jpg"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable/ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_activityfive.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_activityfive.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_activityfour.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_activityfour.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_activitysix.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_activitysix.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_fb.png.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/fb.png"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_register.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_one.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_one.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/layout_activity_qrgenerator.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/layout/activity_qrgenerator.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.Scandance.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable/ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-30:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.Scandance.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    }
+]

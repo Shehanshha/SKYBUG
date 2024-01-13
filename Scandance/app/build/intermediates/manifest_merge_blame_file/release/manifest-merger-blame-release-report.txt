@@ -1,0 +1,346 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Scandance"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+12-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+12-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:22:22-62
+13    <uses-feature
+13-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+14        android:name="android.hardware.camera"
+14-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+15        android:required="false" />
+15-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+16    <uses-feature
+16-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+17        android:name="android.hardware.camera.front"
+17-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+18        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+18-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+19    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+20    <uses-feature
+20-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+21        android:name="android.hardware.camera.autofocus"
+21-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+22        android:required="false" />
+22-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+23    <uses-feature
+23-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+24        android:name="android.hardware.camera.flash"
+24-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+25        android:required="false" />
+25-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+26    <uses-feature
+26-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+27        android:name="android.hardware.screen.landscape"
+27-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+28        android:required="false" />
+28-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+29    <uses-feature
+29-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+30        android:name="android.hardware.wifi"
+30-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+31        android:required="false" />
+31-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+32
+33    <permission
+33-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+34        android:name="com.example.Scandance.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+34-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+35        android:protectionLevel="signature" />
+35-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+36
+37    <uses-permission android:name="com.example.Scandance.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+37-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+37-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+38
+39    <application
+39-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:7:5-135:19
+40        android:allowBackup="true"
+40-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:8:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.9.0] C:\Users\sanya\.gradle\caches\transforms-3\c6770eda00af6c105866b6db09ea3053\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+42        android:dataExtractionRules="@xml/data_extraction_rules"
+42-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:9:9-65
+43        android:extractNativeLibs="false"
+44        android:fullBackupContent="@xml/backup_rules"
+44-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:10:9-54
+45        android:icon="@mipmap/ic_launcher"
+45-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:11:9-43
+46        android:label="@string/app_name"
+46-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:12:9-41
+47        android:roundIcon="@mipmap/ic_launcher_round"
+47-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:13:9-54
+48        android:supportsRtl="true"
+48-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:14:9-35
+49        android:theme="@style/Theme.Scandance" >
+49-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:15:9-47
+50        <activity
+50-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:17:9-23:20
+51            android:name="com.example.Scandance.Activityseven"
+51-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:18:13-42
+52            android:exported="false" >
+52-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:19:13-37
+53            <meta-data
+53-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+54                android:name="android.app.lib_name"
+54-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+55                android:value="" />
+55-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+56        </activity>
+57        <activity
+57-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:24:9-30:20
+58            android:name="com.example.Scandance.Activitysix"
+58-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:25:13-40
+59            android:exported="false" >
+59-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:26:13-37
+60            <meta-data
+60-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+61                android:name="android.app.lib_name"
+61-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+62                android:value="" />
+62-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+63        </activity>
+64        <activity
+64-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:31:9-37:20
+65            android:name="com.example.Scandance.Qrgenerator"
+65-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:32:13-40
+66            android:exported="false" >
+66-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:33:13-37
+67            <meta-data
+67-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+68                android:name="android.app.lib_name"
+68-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+69                android:value="" />
+69-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+70        </activity>
+71        <activity
+71-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:38:9-44:20
+72            android:name="com.example.Scandance.Activityfive"
+72-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:39:13-41
+73            android:exported="false" >
+73-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:40:13-37
+74            <meta-data
+74-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+75                android:name="android.app.lib_name"
+75-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+76                android:value="" />
+76-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+77        </activity>
+78        <activity
+78-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:45:9-51:20
+79            android:name="com.example.Scandance.Faculty_button"
+79-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:46:13-43
+80            android:exported="false" >
+80-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:47:13-37
+81            <meta-data
+81-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+82                android:name="android.app.lib_name"
+82-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+83                android:value="" />
+83-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+84        </activity>
+85        <activity
+85-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:52:9-58:20
+86            android:name="com.example.Scandance.Register"
+86-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:53:13-37
+87            android:exported="false" >
+87-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:54:13-37
+88            <meta-data
+88-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+89                android:name="android.app.lib_name"
+89-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+90                android:value="" />
+90-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+91        </activity>
+92        <activity
+92-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:59:9-65:20
+93            android:name="com.example.Scandance.DBHelper"
+93-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:60:13-37
+94            android:exported="false" >
+94-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:61:13-37
+95            <meta-data
+95-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+96                android:name="android.app.lib_name"
+96-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+97                android:value="" />
+97-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+98        </activity>
+99        <activity
+99-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:66:9-72:20
+100            android:name="com.example.Scandance.Activityfour"
+100-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:67:13-41
+101            android:exported="false" >
+101-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:68:13-37
+102            <meta-data
+102-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+103                android:name="android.app.lib_name"
+103-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+104                android:value="" />
+104-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+105        </activity>
+106        <activity
+106-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:73:9-79:20
+107            android:name="com.example.Scandance.activity_home"
+107-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:74:13-42
+108            android:exported="false" >
+108-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:75:13-37
+109            <meta-data
+109-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+110                android:name="android.app.lib_name"
+110-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+111                android:value="" />
+111-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+112        </activity>
+113        <activity
+113-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:80:9-86:20
+114            android:name="com.example.Scandance.Profile1"
+114-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:81:13-37
+115            android:exported="false" >
+115-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:82:13-37
+116            <meta-data
+116-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+117                android:name="android.app.lib_name"
+117-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+118                android:value="" />
+118-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+119        </activity>
+120        <activity
+120-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:87:9-93:20
+121            android:name="com.example.Scandance.button1"
+121-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:88:13-36
+122            android:exported="false" >
+122-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:89:13-37
+123            <meta-data
+123-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+124                android:name="android.app.lib_name"
+124-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+125                android:value="" />
+125-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+126        </activity>
+127        <activity
+127-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:94:9-100:20
+128            android:name="com.example.Scandance.ActivityThree"
+128-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:95:13-42
+129            android:exported="false" >
+129-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:96:13-37
+130            <meta-data
+130-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+131                android:name="android.app.lib_name"
+131-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+132                android:value="" />
+132-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+133        </activity>
+134        <activity
+134-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:101:9-107:20
+135            android:name="com.example.Scandance.ActivityTwo"
+135-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:102:13-40
+136            android:exported="false" >
+136-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:103:13-37
+137            <meta-data
+137-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+138                android:name="android.app.lib_name"
+138-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+139                android:value="" />
+139-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+140        </activity>
+141        <activity
+141-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:108:9-114:20
+142            android:name="com.example.Scandance.ActivityOne"
+142-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:109:13-40
+143            android:exported="false" >
+143-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:110:13-37
+144            <meta-data
+144-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+145                android:name="android.app.lib_name"
+145-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+146                android:value="" />
+146-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+147        </activity>
+148        <activity
+148-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:115:9-121:20
+149            android:name="com.example.Scandance.button"
+149-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:116:13-35
+150            android:exported="false" >
+150-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:117:13-37
+151            <meta-data
+151-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+152                android:name="android.app.lib_name"
+152-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+153                android:value="" />
+153-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+154        </activity>
+155        <activity
+155-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:122:9-134:20
+156            android:name="com.example.Scandance.MainActivity"
+156-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:123:13-41
+157            android:exported="true" >
+157-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:124:13-36
+158            <intent-filter>
+158-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:125:13-129:29
+159                <action android:name="android.intent.action.MAIN" />
+159-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:126:17-69
+159-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:126:25-66
+160
+161                <category android:name="android.intent.category.LAUNCHER" />
+161-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:128:17-77
+161-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:128:27-74
+162            </intent-filter>
+163
+164            <meta-data
+164-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:20:13-22:36
+165                android:name="android.app.lib_name"
+165-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:21:17-52
+166                android:value="" />
+166-->D:\ANDROID\Scandance\app\src\main\AndroidManifest.xml:22:17-33
+167        </activity>
+168        <activity
+168-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+169            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+169-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+170            android:clearTaskOnLaunch="true"
+170-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+171            android:screenOrientation="sensorLandscape"
+171-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+172            android:stateNotNeeded="true"
+172-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+173            android:theme="@style/zxing_CaptureTheme"
+173-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+174            android:windowSoftInputMode="stateAlwaysHidden" />
+174-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\sanya\.gradle\caches\transforms-3\96c8181b9ac53356bafba69eae5bebdf\transformed\zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+175
+176        <provider
+176-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+177            android:name="androidx.startup.InitializationProvider"
+177-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+178            android:authorities="com.example.Scandance.androidx-startup"
+178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+179            android:exported="false" >
+179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+180            <meta-data
+180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+181                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+181-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+182                android:value="androidx.startup" />
+182-->[androidx.emoji2:emoji2:1.2.0] C:\Users\sanya\.gradle\caches\transforms-3\ec6e2ba61c9a42dd8e0aa44ee71f9dfb\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+183            <meta-data
+183-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanya\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+184                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+184-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanya\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+185                android:value="androidx.startup" />
+185-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\sanya\.gradle\caches\transforms-3\371d4428813d11175307b9e72a350208\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+186        </provider>
+187    </application>
+188
+189</manifest>

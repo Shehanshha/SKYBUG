@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_fb.png.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_activityfive.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_activityfive.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_sun.jpg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\sun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_faculty_button.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_faculty_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_button.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_activitysix.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_activitysix.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_images.jpeg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\images.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_two.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_background1.png.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\background1.png"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_beach.jpg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\beach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_background.jpg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_activityseven.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_activityseven.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_bird.jpg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\bird.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_mo1.png.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\mo1.png"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_clg.jpeg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\clg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_activityfour.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_activityfour.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_three.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_qrgenerator.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_qrgenerator.xml"
+    },
+    {
+        "merged": "com.example.Scandance.app-merged_res-35:/layout_activity_one.xml.flat",
+        "source": "com.example.Scandance.app-main-37:/layout/activity_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\layout_activity_one.xml.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\layout\\activity_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-merged_res-35:\\drawable-v24_tammana.jpg.flat",
+        "source": "C:\\Users\\sanya\\.gradle\\daemon\\7.4\\com.example.Scandance.app-main-37:\\drawable-v24\\tammana.jpg"
+    }
+]

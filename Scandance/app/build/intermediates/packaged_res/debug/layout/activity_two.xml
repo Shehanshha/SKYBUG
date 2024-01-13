@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sun"
+    tools:context=".Faculty_button">
+
+
+    <Button
+        android:id="@+id/activityfive"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="250dp"
+
+        android:layout_marginEnd="82dp"
+        android:text="Profile"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Activitysix"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activityfive"
+        android:layout_alignParentEnd="true"
+
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="82dp"
+        android:text="QR code Generator "
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/Activityseven"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Activitysix"
+        android:layout_alignParentEnd="true"
+
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="82dp"
+        android:text="Attendance Record"
+        android:textColor="#FFFFFF" />
+
+
+</RelativeLayout>

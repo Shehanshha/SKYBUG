@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/activity_home"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="86dp"
+        android:text="Student"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/ActivityTwo"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_home"
+        android:layout_alignParentEnd="true"
+
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="84dp"
+        android:text="Faculty "
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/ActivityThree"
+        android:layout_width="218dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ActivityTwo"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+
+        android:layout_gravity="center"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="85dp"
+        android:text="QR code scanner"
+        android:textColor="#FFFFFF" />
+
+
+</RelativeLayout>
